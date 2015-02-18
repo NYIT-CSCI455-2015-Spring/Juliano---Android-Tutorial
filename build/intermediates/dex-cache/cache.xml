@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\classes-7f7e6161277e748a3c25493319dcecbc55a999f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7763cdfea1c26044b72a13dfbf35d88a362a083c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Juliano\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7b28b67a8efec156aa2b6e42f2b56eced4f26718.jar" />
+    </item>
+    <item
+        jar="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\classes-42395bf3b435b8372a490e58ea8c65ed70f1e4f1.jar" />
+    </item>
+
+</items>
