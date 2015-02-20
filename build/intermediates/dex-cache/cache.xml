@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Juliano\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.4\3bae85a076241828810bf8fbcc12e5891d5fc34c\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-f0885ae0bbd7a1f7c5739b2303845e0a318640ce.jar" />
+    </item>
+    <item
         jar="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -21,6 +28,13 @@
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7b28b67a8efec156aa2b6e42f2b56eced4f26718.jar" />
+    </item>
+    <item
+        jar="C:\Users\Juliano\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.1.1\ab19bfb23f641f189b6dca9a4d393f8dc291103a\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\pre-dexed\debug\picasso-2.1.1-a87d18d2129ac3195e4882df08972aa71b324d1e.jar" />
     </item>
     <item
         jar="C:\Users\Juliano\AndroidStudioProjects\OMGAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
